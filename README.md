@@ -9,7 +9,7 @@ Este programa en Python procesa múltiples cadenas de caracteres o oraciones par
 
 ```bash
 python invertir_palabras.py
-
+```
 Observa las versiones invertidas de las oraciones en la salida estándar.
 Ingresa una cadena cuando se solicite y el programa buscará si se puede formar con los caracteres de alguna oración invertida.
 
@@ -22,9 +22,9 @@ Lee un archivo de entrada con oraciones, aplica la inversión de palabras y mues
 
 encontrar_cadena_oracion(oraciones, cadena)
 Busca si una cadena dada puede formarse con los caracteres de alguna de las oraciones invertidas y devuelve la oración correspondiente en mayúscula si se encuentra.
-
+```
 python invertir_palabras.py
-
+```
 
 Ingrese una cadena: aseasacseajoreja
 
@@ -34,7 +34,4 @@ ASE ASAC SE AJOR
 
 Contribuir
 Siéntete libre de contribuir o informar problemas creando un issue.
-
-
 Espero que esto te sea útil. ¡No dudes en personalizarlo según tus necesidades!
-
