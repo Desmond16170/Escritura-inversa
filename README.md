@@ -8,7 +8,7 @@ Este programa en Python procesa múltiples cadenas de caracteres o oraciones par
 2. Ejecuta el script `invertir_palabras.py`.
 
 ```bash
-python invertir_palabras.py
+python palabras.py
 ```
 Observa las versiones invertidas de las oraciones en la salida estándar.
 Ingresa una cadena cuando se solicite y el programa buscará si se puede formar con los caracteres de alguna oración invertida.
