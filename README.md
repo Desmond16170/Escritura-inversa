@@ -5,7 +5,7 @@ Este programa en Python procesa múltiples cadenas de caracteres o oraciones par
 ## Uso
 
 1. Coloca las oraciones en un archivo llamado `entrada.txt`, una por línea.
-2. Ejecuta el script `invertir_palabras.py`.
+2. Ejecuta el script `palabras.py`.
 
 ```bash
 python palabras.py
@@ -23,7 +23,7 @@ Lee un archivo de entrada con oraciones, aplica la inversión de palabras y mues
 encontrar_cadena_oracion(oraciones, cadena)
 Busca si una cadena dada puede formarse con los caracteres de alguna de las oraciones invertidas y devuelve la oración correspondiente en mayúscula si se encuentra.
 ```
-python invertir_palabras.py
+python palabras.py
 ```
 
 Ingrese una cadena: aseasacseajoreja
