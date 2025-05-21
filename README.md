@@ -1,6 +1,6 @@
 # Invertir Palabras y Buscar Cadena en Oraciones
 
-Este programa en Python procesa múltiples cadenas de caracteres o oraciones para encontrar su versión invertida, donde cada palabra se invierte. Además, permite al usuario ingresar una cadena para buscar si se puede formar con los caracteres de alguna de las oraciones procesadas.
+Este programa en Python procesa múltiples cadenas de caracteres u oraciones para encontrar su versión invertida, donde cada palabra se invierte. Además, permite al usuario ingresar una cadena para buscar si se puede formar con los caracteres de alguna de las oraciones procesadas.
 
 ## Uso
 
